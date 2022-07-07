@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.gfycat.com/BriefIgnorantBlackbuck-size_restricted.gif)]
 <h1 align="center">Hi 👋, I'm Diem Tran</h1>
 <img align = "right" alt = "Mã hóa" width = "400" src = "https://i.pinimg.com/originals/00/c5/37/00c537bdf08547f031540521892e5aa7.gif">
 - 🔭 I’m currently studying at **Da Nang University of Science and Technology**
